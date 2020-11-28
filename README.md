@@ -1,6 +1,5 @@
 # Getting Started
 
-HOLA MUNDO
 
 ## Windows
 
